@@ -1,16 +1,48 @@
-## Hi there 👋
+            Olá, meu nome é Adryan Henrique!
 
-<!--
-**AdryanHS16/AdryanHS16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou Adryan Henrique
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor de software com foco em **aplicações web**, atuando como **Fullstack Developer**.
+Tenho interesse em **arquitetura de sistemas, boas práticas e performance**, buscando sempre escrever código limpo e bem organizado.
+
+---
+
+## 💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software
+- 🧩 Desenvolvedor Fullstack
+- 🚀 Experiência com React, Next.js e Node.js
+- 📚 Em constante evolução em arquitetura, padrões e qualidade de código
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- HTML5 | CSS3 | Tailwind | Bootstrap
+
+### Backend
+- Node.js
+- PHP
+- APIs REST
+- ASP Classic
+
+### Banco de Dados
+- MySQL
+- PostgreSQL
+
+### Ferramentas
+- Git & GitHub
+- Docker (básico)
+- Linux / WSL
+- AWS (em estudo)
+
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/adryanhenriquedev
+- 📧 Email: hsadryan16@gmail.com
