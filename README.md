@@ -39,7 +39,6 @@ Tenho interesse em **arquitetura de sistemas, boas práticas e performance**, bu
 - Linux / WSL
 - AWS (em estudo)
 
-
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/adryanhenriquedev
