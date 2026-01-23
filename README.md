@@ -4,7 +4,7 @@
 Sou desenvolvedor de software com foco em **aplicações web**, atuando como **Fullstack Developer**.
 Tenho interesse em **arquitetura de sistemas, boas práticas e performance**, buscando sempre escrever código limpo e bem organizado.
 
----
+
 
 ## 💻 Sobre mim
 
@@ -13,7 +13,7 @@ Tenho interesse em **arquitetura de sistemas, boas práticas e performance**, bu
 - 🚀 Experiência com React, Next.js e Node.js
 - 📚 Em constante evolução em arquitetura, padrões e qualidade de código
 
----
+
 
 ## 🚀 Tecnologias & Ferramentas
 
