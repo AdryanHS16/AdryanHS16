@@ -12,7 +12,7 @@ Curto **arquitetura de sistemas, boas práticas e performance**, com prioridade 
 - 🚀 React, Next.js e Node.js no dia a dia  
 - 📚 Evoluindo em arquitetura, padrões e qualidade de código  
 
----
+--- 
 
 ## 🧰 Stack (Tecnologias & Ferramentas)
 
